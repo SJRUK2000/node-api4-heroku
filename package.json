@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SJRUK2000/node-api4-heroku/issues"
   },
-  "homepage": "https://github.com/SJRUK2000/node-api4-heroku#readme"
+  "homepage": "https://github.com/SJRUK2000/node-api4-heroku#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
